@@ -14,7 +14,7 @@ To install the Conflict Graph Generator, follow these steps:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/transaction-schedule-to-conflict-graph.git
+   [git clone https://github.com/yourusername/transaction-schedule-to-conflict-graph.git](https://github.com/Unobtainiumrock/transaction-schedule-to-conflict-graph.git)
    ```
 
 2. Navigate to the cloned directory:
