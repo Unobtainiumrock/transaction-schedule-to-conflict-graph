@@ -1,4 +1,4 @@
-# Taransaction Schedule to Conflict Graph
+# Transaction Schedule to Conflict Graph
 
 A tool that given a transaction schedule, will generate a corresponding conflict-graph. The graph is rendered using [matplotlib](https://matplotlib.org/stable/index.html) and the underlying graph is created by [networkx](https://networkx.org/documentation/stable/reference/introduction.html)
 
