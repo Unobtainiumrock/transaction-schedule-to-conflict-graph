@@ -12,17 +12,12 @@ Before you begin, ensure you have met the following requirements:
 
 To install the Conflict Graph Generator, follow these steps:
 
-1. Clone the repo:
-   ```bash
-   [git clone https://github.com/yourusername/transaction-schedule-to-conflict-graph.git](https://github.com/Unobtainiumrock/transaction-schedule-to-conflict-graph.git)
-   ```
-
-2. Navigate to the cloned directory:
+1. Navigate to the cloned directory:
     ```bash
     cd transaction-schedule-to-conflict-graph
     ```
 
-3. Install the required Python packages:
+2. Install the required Python packages:
     ```bash
     pip install -r requirements.txt
     ```
